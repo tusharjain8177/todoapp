@@ -145,7 +145,7 @@ py-wallpaper==0.1.0
 py2exe==0.10.4.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/Admin/Downloads/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+PyAudio 
 PyAutoGUI==0.9.53
 pycodestyle==2.7.0
 pycountry==20.7.3
